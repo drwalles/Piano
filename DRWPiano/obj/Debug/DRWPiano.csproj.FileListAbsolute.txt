@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\bin\Debug\DRWPiano.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\bin\Debug\DRWPiano.exe
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\bin\Debug\DRWPiano.pdb
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.exe
+c:\users\drw\documents\visual studio 2015\Projects\DRWPiano\DRWPiano\obj\Debug\DRWPiano.pdb
